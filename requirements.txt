@@ -3,6 +3,5 @@ pandas
 plotly_express
 streamlit_lottie 
 requests
-os
 gspread 
 oauth2client
